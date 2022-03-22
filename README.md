@@ -24,6 +24,6 @@ Consulta CEP - Procura os CEPs de cada lugar através de uma API usando a Lib AX
 
 ## Deploy:
 
-<a href="#">LINK PROJETO</a>
+<a href="https://buscar-cep-puce.vercel.app/">LINK PROJETO</a>
 
 ## Projeto: 
